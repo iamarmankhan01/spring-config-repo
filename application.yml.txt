@@ -1,5 +1,0 @@
-app:
-  message: "Hello from GitHub Config Server"
-
-server:
-  port: 8085
