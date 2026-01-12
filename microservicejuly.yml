@@ -1,2 +1,5 @@
 app:
-  name: Microservice July Client
+  name: My First Config Server App
+
+server:
+  message: Hello from Config Server 🎉
